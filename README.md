@@ -1,2 +1,2 @@
 # JavaScript-Quiz
-Quiz App with Vanilla JavaScript
+Simple Quiz App with Vanilla JavaScript
